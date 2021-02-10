@@ -1,0 +1,13 @@
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.exe
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.deps.json
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.runtimeconfig.json
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.runtimeconfig.dev.json
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.dll
+D:\DiscordRPC\DiscordRPC\bin\Release\netcoreapp3.1\DiscordRPC.pdb
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.csprojAssemblyReference.cache
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.AssemblyInfoInputs.cache
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.AssemblyInfo.cs
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.csproj.CoreCompileInputs.cache
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.dll
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.pdb
+D:\DiscordRPC\DiscordRPC\obj\Release\netcoreapp3.1\DiscordRPC.genruntimeconfig.cache

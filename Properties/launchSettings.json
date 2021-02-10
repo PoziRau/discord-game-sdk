@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscordRPC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
